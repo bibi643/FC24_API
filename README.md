@@ -3,6 +3,9 @@
 ![Static Badge](https://img.shields.io/badge/Streamlit-white)
 ![Static Badge](https://img.shields.io/badge/Python-cyan) 
 
+
+
+
 # Overview
 Streamlit web app with FC24 male players for my nephews. Wraped in Docker image.
 
@@ -10,9 +13,17 @@ It has been used only FC24 male player, for memory purpose.
 
 The goal of this project is basically to create quickly an app for my nephews and more importantly **dockerise** it so they can use it on their own latop.
 
+
+# Screenshots
+
+TBA
+
 # Tasks
 - [x] Streamlit User friendly for kids interested in FC24 players.
 - [] Dockerise the project to be used on different laptops.
+
+
+
 
 # Structure of the Repo
 - .gitignore: files/folder to ignore during the pushes to the distant repo.

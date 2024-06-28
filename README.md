@@ -16,7 +16,8 @@ The goal of this project is basically to create quickly an app for my nephews an
 
 # Screenshots
 
-![Diagram](http://jgraph.github.io/drawio-github/Streamlit_Docker.png)
+
+![Diagram](./Streamlit_Docker.png?raw=true "Project")
 
 # Tasks
 - [x] Streamlit User friendly for kids interested in FC24 players.

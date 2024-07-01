@@ -4,6 +4,10 @@
 ![Static Badge](https://img.shields.io/badge/Python-cyan) 
 
 
+# Streamlit-Github Page link
+Paste the following link on your browzer to see the streamlit app.
+
+[Link_to_streamlit](https://fc24appdocker-5blvjpdvkummkxpgwra9b2.streamlit.app/)
 
 
 # Overview
@@ -21,7 +25,8 @@ The goal of this project is basically to create quickly an app for my nephews an
 
 # Tasks
 - [x] Streamlit User friendly for kids interested in FC24 players.
-- [] Dockerise the project to be used on different laptops.
+- [x] Dockerise the project and push the image to Dockerhub.
+- [x] Github Pages to be run on other laptops withhout the need to use Docker.
 
 
 
